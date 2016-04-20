@@ -1,3 +1,3 @@
-# POPinfo_2016_AjTyvIT_Workshop
+# POPinfo 2016 AjTyvIT Workshop
 
-Demo at http://zvaraondrej.github.io/POPinfo_2016_AjTyvIT_Workshop/index.html
+Demo at http://zvaraondrej.github.io/popinfo2016/index.html
